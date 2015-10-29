@@ -1,1 +1,3 @@
 # seminargruppen
+
+Hallo Seminargruppe!
